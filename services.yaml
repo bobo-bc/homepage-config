@@ -13,3 +13,8 @@
         icon: portainer.png
         href: http://10.0.0.27
         description: Docker management
+
+    - Test Sync:
+        icon: mdi-flask
+        description: This is a test entry to validate syncing
+        href: https://example.com
