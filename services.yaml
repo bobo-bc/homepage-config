@@ -1,1 +1,15 @@
+- Media:
+    - Sonarr:
+        icon: sonarr.png
+        href: http://10.0.0.25
+        description: TV show management
+    - Radarr:
+        icon: radarr.png
+        href: http://10.0.0.26
+        description: Movie management
 
+- Tools:
+    - Portainer:
+        icon: portainer.png
+        href: http://10.0.0.27
+        description: Docker management
