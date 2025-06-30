@@ -1,0 +1,7 @@
+title: Steven's Homelab
+color: slate
+layout:
+  Media:
+    style: row
+  Tools:
+    style: row
